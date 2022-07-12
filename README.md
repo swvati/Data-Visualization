@@ -8,7 +8,7 @@
 
 Around 510,000 students in 65 economies took part in the PISA 2012 assessment of reading, mathematics and science representing about 28 million 15-year-olds globally. Of those economies, 44 took part in an assessment of creative problem solving and 18 in an assessment of financial literacy.
 
-## Summary of Findings
+## Files Used
 
 > 'pisa2012.csv' file is the original dataset. It was not attached in this project because the file was too large that it exceeded Github.s limit.
 > 'pisadict2012.csv' file is the dictionary for the original 'pisa2012.csv' dataset..
